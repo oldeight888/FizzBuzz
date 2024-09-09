@@ -197,7 +197,7 @@ Now that you've made your first edits to your code, you should ask git to save t
 - [ ] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have modified `FizzBuzz.java` (and this README too!).
 
 We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
-a sequence of three git commands:
+a sequence of three git commands cat:
 
 1. `git add src/FizzBuzz.java`
    - this tells git to "stage" our changes to FizzBuzz.java. If you run `git status` again, you will see
